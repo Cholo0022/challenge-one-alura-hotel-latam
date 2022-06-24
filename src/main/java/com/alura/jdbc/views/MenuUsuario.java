@@ -77,7 +77,7 @@ public class MenuUsuario extends JFrame {
 		panel_1.setBounds(0, 470, 894, 30);
 		contentPane.add(panel_1);
 		
-		JLabel lblNewLabel_3 = new JLabel("Desarrollado por Fulanita de Tal © 2022");
+		JLabel lblNewLabel_3 = new JLabel("Desarrollado por Andrés Alexis Bozzani © 2022");
 		lblNewLabel_3.setForeground(new Color(12, 138, 199));
 		lblNewLabel_3.setFont(new Font("Arial", Font.PLAIN, 13));
 		panel_1.add(lblNewLabel_3);
